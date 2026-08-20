@@ -4,6 +4,8 @@
 **ایمیل:** az.hoseinali@gmail.com  
 **تاریخ:** ۲۰ اوت ۲۰۲۶ / ۲۹ مرداد ۱۴۰۵
 
+**English version:** [README_EN.md](README_EN.md)
+
 ---
 
 ## ۱. خلاصهٔ رویداد
